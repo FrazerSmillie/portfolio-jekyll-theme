@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More Jekyll Themes!"
+title: "Hyde themes!"
 ---
 
 #### Lagrange
