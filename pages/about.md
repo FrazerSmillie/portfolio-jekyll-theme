@@ -6,9 +6,9 @@ permalink: /about
 
 # Portfolio Frazer
 
-Name: Frazer
-Area: Notts
-Education: various
-sector: education and research
-goals: to learn data analytics
+Name: Frazer.   
+Area: Notts.   
+Education: various.   
+Sector: education and research.   
+Goals: to learn data analytics
 
